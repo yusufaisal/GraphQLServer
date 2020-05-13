@@ -1,22 +1,28 @@
 {
-    "customers": [
-        {
-            "id": "1",
-            "name": "John Apple Seed",
-            "email": "john@apple.com",
-            "age": 35
-        },
-        {
-            "id": "2",
-            "name": "Seed",
-            "email": "seed@apple.com",
-            "age": 22
-        },
-        {
-            "id": "3",
-            "name": "Tim Cook",
-            "email": "tim@apple.com",
-            "age": 42
-        },
-    ]
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Apple Seed",
+      "email": "john@apple.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Seed",
+      "email": "seed@apple.com",
+      "age": 22
+    },
+    {
+      "id": "3",
+      "name": "Tim Cook",
+      "email": "tim@apple.com",
+      "age": 42
+    },
+    {
+      "name": "Foo Bar",
+      "email": "foo@bar.com",
+      "age": 28,
+      "id": "Hxm7ymv"
+    }
+  ]
 }
