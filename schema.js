@@ -7,13 +7,6 @@ const {
     GraphQLNonNull
 } = require("graphql");
 
-// Harcoded Data
-const customers = [
-    {id:'1', name:'John Apple Seed', email: 'john@apple.com', age:35},
-    {id:'2', name:'Seed', email: 'seed@apple.com', age:22},
-    {id:'3', name:'Tim Cook', email: 'tim@apple.com', age:42},
-]
-
 // Customer Type
 const CustomerType = new GraphQLObjectType({
     name:"Customer",
